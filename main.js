@@ -217,7 +217,7 @@ LPCLayer = Ice.$extend('LPCLayer', {
 	__init__: function(id, loader) {
 		var self = this;
 		self.id = id;
-		self.filename = '/assets/lpc/' + id + '.png';
+		self.filename = 'assets/lpc/' + id + '.png';
 		self.gender = /female/.test('female') ? 'female' : 'male';
 		self.oversize = /oversize/.test(id);
 		self.texture = null;
