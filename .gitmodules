@@ -1,0 +1,6 @@
+[submodule "libs/icejs"]
+	path = libs/icejs
+	url = https://github.com/jamuspsi/icejs.git
+[submodule "libs/classy"]
+	path = libs/classy
+	url = https://github.com/jamuspsi/classy.git
