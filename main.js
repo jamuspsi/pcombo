@@ -47,7 +47,13 @@ $(function() {
     	p.add_layer('hair/male/shorthawk/brown');
     	p.add_layer('weapons/oversize/right hand/male/longsword_male');
     	p.add_layer('weapons/left hand/either/arrow');
+    	p.add_layer('feet/shoes/male/brown_shoes_male');
+    	p.add_layer('legs/pants/male/red_pants_male');
+    	p.add_layer('formal_male_no_th-sh/shirt');
+   		p.add_layer('facial/male/bigstache/redhead');
     	p.add_layer('weapons/right hand/either/bow');
+    	p.add_layer('weapons/right hand/either/bow');
+
     	console.log("Adding container: ", p.container);
     	p.container.x = 200;
     	p.container.y = 200;
